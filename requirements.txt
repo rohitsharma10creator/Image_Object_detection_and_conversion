@@ -1,6 +1,6 @@
 opencv-python-headless
 streamlit
-tensorflow==1.15
+tensorflow==2.5.0rc0
 numpy
 cvlib
 scipy
